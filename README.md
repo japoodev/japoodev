@@ -10,7 +10,6 @@
 - ⚡ Fun fact: I love to play **Chess**.
 
 ---
-<!-- ![Japoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=japoodev&count_private=true) -->
 
 ### Languages I use:
 [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
@@ -28,5 +27,5 @@
 ---
 ### My GitHub stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=japoodev&show_icons=true" alt="Japoodev's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=japoodev&show_icons=true&count_private=true" alt="Japoodev's github stats" />
 </p>
