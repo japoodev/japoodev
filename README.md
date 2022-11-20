@@ -7,6 +7,7 @@
     - [LinkedIn](https://www.linkedin.com/in/japoo)
     - [Twitter](https://twitter.com/jap_ooo)
     - [Instagram](https://instagram.com/jap.oo)
+- 📄 Here's [my resume](./assets/resume.pdf)
 - ⚡ Fun fact: I love to play **Chess**.
 
 ---
