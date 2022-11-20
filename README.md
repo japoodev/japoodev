@@ -23,6 +23,13 @@
 
 ### My weekly stats:
 <!--START_SECTION:waka-->
+
+```text
+Markdown     32 mins         █████████░░░░░░░░░░░░░░░░   36.53 %
+HTML         23 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.17 %
+Other        16 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.74 %
+```
+
 <!--END_SECTION:waka-->
 ---
 ### My GitHub stats:
