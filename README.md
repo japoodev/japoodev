@@ -26,11 +26,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-HTML               5 hrs 5 mins    ███████████▒░░░░░░░░░░░░░   44.81 %
-CSS                3 hrs 35 mins   ████████░░░░░░░░░░░░░░░░░   31.66 %
-JavaScript         2 hrs 40 mins   ██████░░░░░░░░░░░░░░░░░░░   23.51 %
-JSON               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-reStructuredText   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+HTML         5 hrs 5 mins    ████████████████░░░░░░░░░   63.37 %
+CSS          1 hr 33 mins    █████░░░░░░░░░░░░░░░░░░░░   19.39 %
+JavaScript   1 hr 23 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.25 %
 ```
 
 <!--END_SECTION:waka-->
