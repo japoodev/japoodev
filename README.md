@@ -26,8 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Git          0 secs          ████████████████████▓░░░░   82.52 %
-JavaScript   0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   17.48 %
+Other   5 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
